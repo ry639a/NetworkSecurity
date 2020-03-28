@@ -1,0 +1,11 @@
+enc 133457799bbcdff1 0123456789abcdef 85e813540f0ab405
+dec 133457799bbcdff1 85e813540f0ab405 0123456789abcdef
+enc facadedecadeabba eeeeeeeeeeeeeeee c65fca00c6bd83e1
+dec beadedbeefd00dad c65fca00c6bd83e1 e1fb98d4c389679c
+enc 0ddc0ffeeed1f1ce e1fb98d4c389679c f6e231ffdbe987b9
+dec 0ddc0ffeeed1f1ce f6e231ffdbe987b9 e1fb98d4c389679c 
+enc beadedbeefd00dad e1fb98d4c389679c c65fca00c6bd83e1
+dec facadedecadeabba c65fca00c6bd83e1 eeeeeeeeeeeeeeee
+
+
+
